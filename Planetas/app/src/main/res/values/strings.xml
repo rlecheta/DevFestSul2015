@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- A -->
+    <string name="app_name">Planetas</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- C -->
+    <string name="constelacoes">Constelações</string>
+
+    <!-- P -->
+    <string name="planetas">Planetas</string>
+
+    <!-- N -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Transition Key para Activity Animation -->
+    <string name="transition_key">transition_key</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="texto_lorem" formatted="false">
+        Lorem %s ipsum dolor sit amet, mauris sollicitudin nostrud, ut nec, imperdiet eu sit in varius fringilla amet, congue fames id consectetuer vel. Vestibulum quis nunc nec in, sodales at integer. Ut porta nulla. Quis ultrices neque velit tortor, ipsum eros cras nam, est sodales quis pede, quisque vestibulum elit sit blandit eleifend. Elit urna feugiat, fermentum sem euismod vestibulum. Vestibulum nulla sed, nibh sed a in tristique lorem, diam pretium adipisci, in porttitor nulla nec, adipiscing arcu ligula a nulla mi. Quam vestibulum vel eu ante nec vel, enim ipsum sem scelerisque. Litora tincidunt dapibus varius vestibulum ullamcorper egestas. Hendrerit suspendisse consequat fames neque, diam egestas nam sed dui lacus sem. Morbi ligula nullam donec at. Nam vestibulum sed ullam sem habitasse sem, mollitia neque, id convallis aliquam tempor vel.
+\n\nElit %s wisi odio rhoncus luctus turpis, lacinia sed vel sed interdum donec, ornare tempus quam tellus aliquam bibendum vestibulum. Nulla mauris. Blandit vestibulum, consectetuer massa nulla congue diam, consectetuer justo volutpat, amet neque morbi nibh nunc nec. Sed suspendisse vestibulum donec, mauris ut egestas. Pede ducimus id in gravida tellus, tempor sociosqu ac accumsan, id non odio dapibus tempor tempor, mi mi. Justo turpis sit. Pulvinar fringilla ut, et ligula rhoncus semper vivamus elit sit, diam mauris diam dignissim ut sodales.
+\n\nPharetra %s mi sed vivamus, libero id libero vitae turpis in aenean, semper dui, euismod nonummy arcu integer odio, ipsum a. Sollicitudin nec mauris odio amet dolor amet, cras facilisis fuga cras facilisis, quis nulla dui ut suspendisse venenatis, rhoncus placerat sed in etiam, mi libero nullam scelerisque. Lacus reprehenderit velit, platea scelerisque libero, scelerisque feugiat gravida ridiculus faucibus sagittis, sed vel. Wisi dolor, convallis elit lectus nunc volutpat duis, tortor libero, proin in phasellus. Erat velit in ullamcorper massa. Nemo massa vestibulum est neque amet eros, netus congue faucibus. Pulvinar nibh aptent leo id eleifend, semper ac. Wisi integer commodo, commodo non duis leo.
+\n\nMagna %s convallis vestibulum velit eu vel, sed egestas scelerisque. Vestibulum viverra libero sed, aliquid bibendum platea diam sem id, id erat ligula, lacus hac wisi elit dolor, condimentum dui dui justo volutpat. Pede pede id vehicula facilisi blandit, urna luctus pharetra suscipit ut in erat, eu feugiat, maecenas sed adipiscing suscipit ante. Nunc orci mollis posuere sem integer. Urna quam nonummy velit, cras dignissim vestibulum nec feugiat. Montes consectetuer id felis et, rhoncus malesuada malesuada iaculis parturient, mauris quam odio libero tellus sed eleifend, a cras, et lorem magna sapien est pellentesque. Eget molestie wisi taciti litora luctus aenean, sed donec wisi, in iaculis
+
+    </string>
+    <string name="texto_lorem_1" formatted="false">
+        Lorem %s ipsum dolor sit amet, mauris sollicitudin nostrud, ut nec, imperdiet eu sit in varius fringilla amet, congue fames id consectetuer vel. Vestibulum quis nunc nec in, sodales at integer. Ut porta nulla. Quis ultrices neque velit tortor, ipsum eros cras nam, est sodales quis pede, quisque vestibulum elit sit blandit eleifend. Elit urna feugiat, fermentum sem euismod vestibulum. Vestibulum nulla sed, nibh sed a in tristique lorem, diam pretium adipisci, in porttitor nulla nec, adipiscing arcu ligula a nulla mi. Quam vestibulum vel eu ante nec vel, enim ipsum sem scelerisque. Litora tincidunt dapibus varius vestibulum ullamcorper egestas. Hendrerit suspendisse consequat fames neque, diam egestas nam sed dui lacus sem. Morbi ligula nullam donec at. Nam vestibulum sed ullam sem habitasse sem, mollitia neque, id convallis aliquam tempor vel.
+    </string>
+        <string name="texto_lorem_2" formatted="false">
+\n\nElit %s wisi odio rhoncus luctus turpis, lacinia sed vel sed interdum donec, ornare tempus quam tellus aliquam bibendum vestibulum. Nulla mauris. Blandit vestibulum, consectetuer massa nulla congue diam, consectetuer justo volutpat, amet neque morbi nibh nunc nec. Sed suspendisse vestibulum donec, mauris ut egestas. Pede ducimus id in gravida tellus, tempor sociosqu ac accumsan, id non odio dapibus tempor tempor, mi mi. Justo turpis sit. Pulvinar fringilla ut, et ligula rhoncus semper vivamus elit sit, diam mauris diam dignissim ut sodales.
+    </string>
+        <string name="texto_lorem_3" formatted="false">
+\n\nPharetra %s mi sed vivamus, libero id libero vitae turpis in aenean, semper dui, euismod nonummy arcu integer odio, ipsum a. Sollicitudin nec mauris odio amet dolor amet, cras facilisis fuga cras facilisis, quis nulla dui ut suspendisse venenatis, rhoncus placerat sed in etiam, mi libero nullam scelerisque. Lacus reprehenderit velit, platea scelerisque libero, scelerisque feugiat gravida ridiculus faucibus sagittis, sed vel. Wisi dolor, convallis elit lectus nunc volutpat duis, tortor libero, proin in phasellus. Erat velit in ullamcorper massa. Nemo massa vestibulum est neque amet eros, netus congue faucibus. Pulvinar nibh aptent leo id eleifend, semper ac. Wisi integer commodo, commodo non duis leo.
+    </string>
+        <string name="texto_lorem_4" formatted="false">
+\n\nMagna %s convallis vestibulum velit eu vel, sed egestas scelerisque. Vestibulum viverra libero sed, aliquid bibendum platea diam sem id, id erat ligula, lacus hac wisi elit dolor, condimentum dui dui justo volutpat. Pede pede id vehicula facilisi blandit, urna luctus pharetra suscipit ut in erat, eu feugiat, maecenas sed adipiscing suscipit ante. Nunc orci mollis posuere sem integer. Urna quam nonummy velit, cras dignissim vestibulum nec feugiat. Montes consectetuer id felis et, rhoncus malesuada malesuada iaculis parturient, mauris quam odio libero tellus sed eleifend, a cras, et lorem magna sapien est pellentesque. Eget molestie wisi taciti litora luctus aenean, sed donec wisi, in iaculis
+    </string>
+
+    <string name="texto_lorem_5" formatted="false">
+\n\nVestibulum quis dolor maximus, convallis odio rutrum, tempus metus. Praesent fermentum volutpat est, eu fermentum urna maximus eget. Nam eget metus semper, hendrerit ligula vitae, aliquam nunc. Integer pulvinar, ex in dictum venenatis, ex augue commodo libero, sit amet tincidunt justo massa sit amet est. Etiam nibh mauris, gravida ut massa vel, elementum tincidunt nunc. Aliquam erat volutpat. Suspendisse lorem neque, dapibus a mi id, congue dictum odio. Ut vel vulputate augue. In venenatis laoreet lacinia. Donec malesuada nunc tellus, non hendrerit sem pellentesque vitae.
+    </string>
+    <string name="texto_lorem_6" formatted="false">
+\n\nMaecenas non nulla ac odio molestie aliquam. Nunc eleifend, felis a condimentum viverra, est quam consequat justo, a dignissim justo nisl eget est. Maecenas mollis, lorem a vulputate congue, odio eros dictum sem, eget vulputate sapien risus sed augue. Sed blandit sem et nunc maximus, ut pretium est lacinia. Nulla facilisi. Nunc a faucibus sem. Phasellus rutrum, neque rhoncus tincidunt fermentum, mi risus tincidunt nisi, a viverra nunc neque in nunc. Phasellus ac luctus neque. In pharetra interdum leo vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit felis a consectetur porta.
+    </string>
+</resources>
