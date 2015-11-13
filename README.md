@@ -1,6 +1,11 @@
 # DevFestSul2015
 Código-fonte da apresentação no DevFestSul 2015
 
-O aplicativo foi feito passo a passo durante a palestra. Segue video do app:
+O aplicativo foi feito passo a passo durante a palestra.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/BCaktw7E_l0" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=BCaktw7E_l0">Vídeo do app</a>
+
+<img width="350" height="622" src="https://raw.githubusercontent.com/rlecheta/DevFestSul2015/master/Planetas-Lista.png" />
+<img width="350" height="622" src="https://raw.githubusercontent.com/rlecheta/DevFestSul2015/master/Planeta-Detalhe.png" />
+
+
